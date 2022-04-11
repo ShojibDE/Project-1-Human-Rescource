@@ -14,4 +14,21 @@ This is a classification model. Where used Logistic Regression and Ensemble mode
 Also trained on  Deep Learning model,trained on the top of Keras API, to observe which model works well. 
 ## Instalation 
 The Code is written in Python 3.8.5 .
+
+## Exploratory Data Visualizatio 
+Explore the whole dataset
+
+
+
+![EDA0](https://user-images.githubusercontent.com/81525107/162728193-e295e32f-ddca-43cc-b4a1-9cfe041c6319.png)
+
+Corelations
+
+
+![EDA1](https://user-images.githubusercontent.com/81525107/162728463-8170cbcc-f90a-45e5-8960-5057b13ea7ca.png)
+
+
 ## Technologies  Used
+![technology](https://user-images.githubusercontent.com/81525107/162731524-85036efd-318f-4661-ac43-61e9b28cef9e.png)
+
+
